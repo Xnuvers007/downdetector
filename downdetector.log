@@ -1,0 +1,1046 @@
+2025-05-18 23:54:32,657 [INFO] Started monitoring 3 URLs with check interval of 10s
+2025-05-18 23:54:54,228 [INFO] Monitoring stopped by user.
+2025-05-18 23:55:08,547 [INFO] Loaded configuration with 3 URLs
+2025-05-18 23:55:50,185 [INFO] Started monitoring 3 URLs with check interval of 10s
+2025-05-18 23:55:50,578 [INFO] [UP] https://github.com - UP (HTTP 200, 391.01ms)
+2025-05-18 23:55:50,678 [INFO] [UP] https://google.com - UP (HTTP 200, 489.95ms)
+2025-05-18 23:55:50,979 [INFO] [UP] https://facebook.com - UP (HTTP 200, 790.43ms)
+2025-05-18 23:56:01,434 [INFO] [UP] https://github.com - UP (HTTP 200, 399.0ms)
+2025-05-18 23:56:01,473 [INFO] [UP] https://google.com - UP (HTTP 200, 490.0ms)
+2025-05-18 23:56:01,930 [INFO] [UP] https://facebook.com - UP (HTTP 200, 948.0ms)
+2025-05-18 23:56:12,644 [INFO] [UP] https://google.com - UP (HTTP 200, 702.0ms)
+2025-05-18 23:56:12,672 [INFO] [UP] https://github.com - UP (HTTP 200, 704.0ms)
+2025-05-18 23:56:13,026 [INFO] [UP] https://facebook.com - UP (HTTP 200, 1085.0ms)
+2025-05-18 23:56:23,505 [INFO] [UP] https://github.com - UP (HTTP 200, 436.0ms)
+2025-05-18 23:56:23,570 [INFO] [UP] https://google.com - UP (HTTP 200, 523.01ms)
+2025-05-18 23:56:23,877 [INFO] [UP] https://facebook.com - UP (HTTP 200, 831.0ms)
+2025-05-18 23:56:34,249 [INFO] [UP] https://github.com - UP (HTTP 200, 367.0ms)
+2025-05-18 23:56:34,293 [INFO] [UP] https://google.com - UP (HTTP 200, 410.99ms)
+2025-05-18 23:56:34,595 [INFO] [UP] https://facebook.com - UP (HTTP 200, 714.0ms)
+2025-05-18 23:56:44,971 [INFO] [UP] https://github.com - UP (HTTP 200, 346.02ms)
+2025-05-18 23:56:45,031 [INFO] [UP] https://google.com - UP (HTTP 200, 430.0ms)
+2025-05-18 23:56:45,376 [INFO] [UP] https://facebook.com - UP (HTTP 200, 775.01ms)
+2025-05-18 23:56:55,832 [INFO] [UP] https://github.com - UP (HTTP 200, 449.97ms)
+2025-05-18 23:56:55,890 [INFO] [UP] https://google.com - UP (HTTP 200, 506.98ms)
+2025-05-18 23:56:56,156 [INFO] [UP] https://facebook.com - UP (HTTP 200, 772.98ms)
+2025-05-18 23:57:06,471 [INFO] [UP] https://github.com - UP (HTTP 200, 310.7ms)
+2025-05-18 23:57:06,551 [INFO] [UP] https://google.com - UP (HTTP 200, 390.99ms)
+2025-05-18 23:57:06,837 [INFO] [UP] https://facebook.com - UP (HTTP 200, 675.46ms)
+2025-05-18 23:57:17,194 [INFO] [UP] https://github.com - UP (HTTP 200, 352.91ms)
+2025-05-18 23:57:17,285 [INFO] [UP] https://google.com - UP (HTTP 200, 444.91ms)
+2025-05-18 23:57:17,591 [INFO] [UP] https://facebook.com - UP (HTTP 200, 749.91ms)
+2025-05-18 23:57:28,056 [INFO] [UP] https://github.com - UP (HTTP 200, 457.98ms)
+2025-05-18 23:57:28,108 [INFO] [UP] https://google.com - UP (HTTP 200, 510.98ms)
+2025-05-18 23:57:28,435 [INFO] [UP] https://facebook.com - UP (HTTP 200, 836.98ms)
+2025-05-18 23:57:38,748 [INFO] [UP] https://github.com - UP (HTTP 200, 309.3ms)
+2025-05-18 23:57:38,793 [INFO] [UP] https://google.com - UP (HTTP 200, 354.3ms)
+2025-05-18 23:57:39,075 [INFO] [UP] https://facebook.com - UP (HTTP 200, 635.05ms)
+2025-05-18 23:57:49,445 [INFO] [UP] https://google.com - UP (HTTP 200, 365.29ms)
+2025-05-18 23:57:49,486 [INFO] [UP] https://github.com - UP (HTTP 200, 405.29ms)
+2025-05-18 23:57:49,806 [INFO] [UP] https://facebook.com - UP (HTTP 200, 725.71ms)
+2025-05-18 23:58:00,232 [INFO] [UP] https://github.com - UP (HTTP 200, 418.99ms)
+2025-05-18 23:58:00,274 [INFO] [UP] https://google.com - UP (HTTP 200, 461.99ms)
+2025-05-18 23:58:00,538 [INFO] [UP] https://facebook.com - UP (HTTP 200, 725.7ms)
+2025-05-18 23:58:10,890 [INFO] [UP] https://github.com - UP (HTTP 200, 345.98ms)
+2025-05-18 23:58:10,968 [INFO] [UP] https://google.com - UP (HTTP 200, 426.97ms)
+2025-05-18 23:58:11,259 [INFO] [UP] https://facebook.com - UP (HTTP 200, 713.98ms)
+2025-05-18 23:58:21,598 [INFO] [UP] https://github.com - UP (HTTP 200, 330.07ms)
+2025-05-18 23:58:21,646 [INFO] [UP] https://google.com - UP (HTTP 200, 382.06ms)
+2025-05-18 23:58:21,931 [INFO] [UP] https://facebook.com - UP (HTTP 200, 664.3ms)
+2025-05-18 23:58:32,248 [INFO] [UP] https://github.com - UP (HTTP 200, 312.45ms)
+2025-05-18 23:58:32,312 [INFO] [UP] https://google.com - UP (HTTP 200, 375.06ms)
+2025-05-18 23:58:32,627 [INFO] [UP] https://facebook.com - UP (HTTP 200, 690.49ms)
+2025-05-18 23:58:43,014 [INFO] [UP] https://github.com - UP (HTTP 200, 381.0ms)
+2025-05-18 23:58:43,061 [INFO] [UP] https://google.com - UP (HTTP 200, 429.0ms)
+2025-05-18 23:58:43,355 [INFO] [UP] https://facebook.com - UP (HTTP 200, 722.0ms)
+2025-05-18 23:58:53,642 [INFO] [UP] https://github.com - UP (HTTP 200, 284.57ms)
+2025-05-18 23:58:53,693 [INFO] [UP] https://google.com - UP (HTTP 200, 335.34ms)
+2025-05-18 23:58:54,021 [INFO] [UP] https://facebook.com - UP (HTTP 200, 662.49ms)
+2025-05-18 23:59:05,239 [INFO] [UP] https://github.com - UP (HTTP 200, 1155.0ms)
+2025-05-18 23:59:05,342 [INFO] [UP] https://google.com - UP (HTTP 200, 1308.01ms)
+2025-05-18 23:59:05,600 [INFO] [UP] https://facebook.com - UP (HTTP 200, 1566.0ms)
+2025-05-18 23:59:16,364 [INFO] [UP] https://github.com - UP (HTTP 200, 706.0ms)
+2025-05-18 23:59:16,473 [INFO] [UP] https://google.com - UP (HTTP 200, 823.0ms)
+2025-05-18 23:59:16,741 [INFO] [UP] https://facebook.com - UP (HTTP 200, 1090.0ms)
+2025-05-18 23:59:27,280 [INFO] [UP] https://github.com - UP (HTTP 200, 509.0ms)
+2025-05-18 23:59:27,335 [INFO] [UP] https://google.com - UP (HTTP 200, 563.0ms)
+2025-05-18 23:59:27,627 [INFO] [UP] https://facebook.com - UP (HTTP 200, 855.0ms)
+2025-05-18 23:59:34,521 [INFO] Monitoring stopped by user.
+2025-05-19 00:03:58,790 [INFO] Loaded configuration with 3 URLs
+2025-05-19 00:04:04,699 [INFO] Loaded configuration with 3 URLs
+2025-05-19 00:04:19,119 [INFO] Started monitoring 3 URLs with check interval of 10s
+2025-05-19 00:04:19,481 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:04:19,682 [INFO] [UP] https://google.com - UP (HTTP 200, 559.73ms)
+2025-05-19 00:04:19,906 [INFO] [UP] https://facebook.com - UP (HTTP 200, 783.97ms)
+2025-05-19 00:04:30,345 [INFO] [UP] https://google.com - UP (HTTP 200, 433.97ms)
+2025-05-19 00:04:30,356 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:04:30,724 [INFO] [UP] https://facebook.com - UP (HTTP 200, 810.98ms)
+2025-05-19 00:04:42,044 [INFO] [UP] https://google.com - UP (HTTP 200, 1267.0ms)
+2025-05-19 00:04:42,573 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:04:43,141 [INFO] [UP] https://facebook.com - UP (HTTP 200, 2363.0ms)
+2025-05-19 00:04:53,588 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:04:53,594 [INFO] [UP] https://google.com - UP (HTTP 200, 443.39ms)
+2025-05-19 00:04:53,997 [INFO] [UP] https://facebook.com - UP (HTTP 200, 844.58ms)
+2025-05-19 00:05:04,441 [INFO] [UP] https://google.com - UP (HTTP 200, 438.51ms)
+2025-05-19 00:05:04,491 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:05:04,750 [INFO] [UP] https://facebook.com - UP (HTTP 200, 744.65ms)
+2025-05-19 00:05:15,047 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:05:15,088 [INFO] [UP] https://google.com - UP (HTTP 200, 334.0ms)
+2025-05-19 00:05:15,435 [INFO] [UP] https://facebook.com - UP (HTTP 200, 679.27ms)
+2025-05-19 00:05:25,815 [INFO] [UP] https://google.com - UP (HTTP 200, 375.43ms)
+2025-05-19 00:05:25,824 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:05:26,178 [INFO] [UP] https://facebook.com - UP (HTTP 200, 738.23ms)
+2025-05-19 00:05:36,520 [INFO] [UP] https://google.com - UP (HTTP 200, 338.53ms)
+2025-05-19 00:05:36,529 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:05:36,873 [INFO] [UP] https://facebook.com - UP (HTTP 200, 690.49ms)
+2025-05-19 00:05:47,204 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:05:47,247 [INFO] [UP] https://google.com - UP (HTTP 200, 368.98ms)
+2025-05-19 00:05:47,559 [INFO] [UP] https://facebook.com - UP (HTTP 200, 680.1ms)
+2025-05-19 00:05:57,900 [INFO] [UP] https://google.com - UP (HTTP 200, 336.43ms)
+2025-05-19 00:05:57,905 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:05:58,320 [INFO] [UP] https://facebook.com - UP (HTTP 200, 756.09ms)
+2025-05-19 00:06:08,680 [INFO] [UP] https://google.com - UP (HTTP 200, 357.07ms)
+2025-05-19 00:06:08,689 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:06:09,073 [INFO] [UP] https://facebook.com - UP (HTTP 200, 749.83ms)
+2025-05-19 00:06:19,373 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:06:19,430 [INFO] [UP] https://google.com - UP (HTTP 200, 351.4ms)
+2025-05-19 00:06:19,910 [INFO] [UP] https://facebook.com - UP (HTTP 200, 831.36ms)
+2025-05-19 00:06:30,322 [INFO] [UP] https://google.com - UP (HTTP 200, 408.24ms)
+2025-05-19 00:06:30,329 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:06:30,622 [INFO] [UP] https://facebook.com - UP (HTTP 200, 707.5ms)
+2025-05-19 00:06:41,125 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:06:41,268 [INFO] [UP] https://google.com - UP (HTTP 200, 641.0ms)
+2025-05-19 00:06:41,458 [INFO] [UP] https://facebook.com - UP (HTTP 200, 830.0ms)
+2025-05-19 00:06:51,880 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:06:51,927 [INFO] [UP] https://google.com - UP (HTTP 200, 433.97ms)
+2025-05-19 00:06:52,211 [INFO] [UP] https://facebook.com - UP (HTTP 200, 717.96ms)
+2025-05-19 00:07:02,929 [INFO] [UP] https://google.com - UP (HTTP 200, 713.19ms)
+2025-05-19 00:07:03,083 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:07:03,242 [INFO] [UP] https://facebook.com - UP (HTTP 200, 1025.19ms)
+2025-05-19 00:07:13,611 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:07:13,634 [INFO] [UP] https://google.com - UP (HTTP 200, 381.9ms)
+2025-05-19 00:07:13,969 [INFO] [UP] https://facebook.com - UP (HTTP 200, 716.2ms)
+2025-05-19 00:07:24,340 [INFO] [UP] https://google.com - UP (HTTP 200, 365.84ms)
+2025-05-19 00:07:24,345 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:07:24,811 [INFO] [UP] https://facebook.com - UP (HTTP 200, 835.84ms)
+2025-05-19 00:07:35,205 [INFO] [UP] https://google.com - UP (HTTP 200, 388.95ms)
+2025-05-19 00:07:35,214 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:07:35,553 [INFO] [UP] https://facebook.com - UP (HTTP 200, 717.74ms)
+2025-05-19 00:07:45,953 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:07:45,984 [INFO] [UP] https://google.com - UP (HTTP 200, 426.0ms)
+2025-05-19 00:07:46,283 [INFO] [UP] https://facebook.com - UP (HTTP 200, 701.01ms)
+2025-05-19 00:07:56,720 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:07:56,775 [INFO] [UP] https://google.com - UP (HTTP 200, 485.99ms)
+2025-05-19 00:07:57,165 [INFO] [UP] https://facebook.com - UP (HTTP 200, 875.42ms)
+2025-05-19 00:08:07,588 [INFO] [UP] https://google.com - UP (HTTP 200, 418.4ms)
+2025-05-19 00:08:07,611 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:08:07,894 [INFO] [UP] https://facebook.com - UP (HTTP 200, 631.54ms)
+2025-05-19 00:08:18,294 [INFO] [UP] https://google.com - UP (HTTP 200, 396.47ms)
+2025-05-19 00:08:18,308 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:08:18,592 [INFO] [UP] https://facebook.com - UP (HTTP 200, 693.47ms)
+2025-05-19 00:08:29,067 [INFO] [UP] https://google.com - UP (HTTP 200, 468.81ms)
+2025-05-19 00:08:29,078 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:08:29,378 [INFO] [UP] https://facebook.com - UP (HTTP 200, 778.4ms)
+2025-05-19 00:08:39,806 [INFO] [UP] https://google.com - UP (HTTP 200, 423.33ms)
+2025-05-19 00:08:39,849 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:08:40,156 [INFO] [UP] https://facebook.com - UP (HTTP 200, 746.63ms)
+2025-05-19 00:08:50,587 [INFO] [UP] https://google.com - UP (HTTP 200, 425.23ms)
+2025-05-19 00:08:50,605 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:08:50,878 [INFO] [UP] https://facebook.com - UP (HTTP 200, 717.4ms)
+2025-05-19 00:09:01,304 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:09:01,364 [INFO] [UP] https://google.com - UP (HTTP 200, 481.68ms)
+2025-05-19 00:09:01,674 [INFO] [UP] https://facebook.com - UP (HTTP 200, 789.56ms)
+2025-05-19 00:09:07,106 [INFO] Monitoring stopped by user.
+2025-05-19 00:09:10,378 [INFO] Loaded configuration with 3 URLs
+2025-05-19 00:09:14,417 [INFO] Started monitoring 3 URLs with check interval of 10s
+2025-05-19 00:09:14,772 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:09:14,934 [INFO] [UP] https://google.com - UP (HTTP 200, 513.77ms)
+2025-05-19 00:09:15,194 [INFO] [UP] https://facebook.com - UP (HTTP 200, 773.93ms)
+2025-05-19 00:09:25,503 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:09:25,580 [INFO] [UP] https://google.com - UP (HTTP 200, 381.64ms)
+2025-05-19 00:09:25,939 [INFO] [UP] https://facebook.com - UP (HTTP 200, 739.73ms)
+2025-05-19 00:09:36,324 [INFO] [UP] https://google.com - UP (HTTP 200, 380.45ms)
+2025-05-19 00:09:36,334 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:09:36,886 [INFO] [UP] https://facebook.com - UP (HTTP 200, 941.82ms)
+2025-05-19 00:09:47,413 [INFO] [UP] https://google.com - UP (HTTP 200, 523.01ms)
+2025-05-19 00:09:47,425 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:09:47,892 [INFO] [UP] https://facebook.com - UP (HTTP 200, 1001.21ms)
+2025-05-19 00:09:58,189 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:09:58,261 [INFO] [UP] https://google.com - UP (HTTP 200, 363.33ms)
+2025-05-19 00:09:58,801 [INFO] [UP] https://facebook.com - UP (HTTP 200, 902.78ms)
+2025-05-19 00:10:09,176 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:10:09,241 [INFO] [UP] https://google.com - UP (HTTP 200, 436.99ms)
+2025-05-19 00:10:09,641 [INFO] [UP] https://facebook.com - UP (HTTP 200, 833.61ms)
+2025-05-19 00:10:20,736 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:10:20,790 [INFO] [UP] https://google.com - UP (HTTP 200, 1049.0ms)
+2025-05-19 00:10:21,132 [INFO] [UP] https://facebook.com - UP (HTTP 200, 1390.0ms)
+2025-05-19 00:10:31,561 [INFO] [UP] https://google.com - UP (HTTP 200, 399.0ms)
+2025-05-19 00:10:31,565 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:10:31,961 [INFO] [UP] https://facebook.com - UP (HTTP 200, 798.0ms)
+2025-05-19 00:10:42,426 [INFO] [UP] https://google.com - UP (HTTP 200, 460.0ms)
+2025-05-19 00:10:42,435 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:10:42,847 [INFO] [UP] https://facebook.com - UP (HTTP 200, 882.0ms)
+2025-05-19 00:10:53,254 [INFO] [UP] https://google.com - UP (HTTP 200, 400.13ms)
+2025-05-19 00:10:53,265 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:10:53,765 [INFO] [UP] https://facebook.com - UP (HTTP 200, 913.2ms)
+2025-05-19 00:11:04,264 [INFO] [UP] https://google.com - UP (HTTP 200, 489.99ms)
+2025-05-19 00:11:04,274 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:11:04,638 [INFO] [UP] https://facebook.com - UP (HTTP 200, 866.89ms)
+2025-05-19 00:11:15,117 [INFO] [UP] https://google.com - UP (HTTP 200, 470.0ms)
+2025-05-19 00:11:15,128 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:11:15,513 [INFO] [UP] https://facebook.com - UP (HTTP 200, 864.84ms)
+2025-05-19 00:11:25,917 [INFO] [UP] https://google.com - UP (HTTP 200, 396.01ms)
+2025-05-19 00:11:25,926 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:11:26,336 [INFO] [UP] https://facebook.com - UP (HTTP 200, 819.78ms)
+2025-05-19 00:11:36,759 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:11:36,793 [INFO] [UP] https://google.com - UP (HTTP 200, 451.99ms)
+2025-05-19 00:11:37,190 [INFO] [UP] https://facebook.com - UP (HTTP 200, 848.32ms)
+2025-05-19 00:11:47,640 [INFO] [UP] https://google.com - UP (HTTP 200, 445.02ms)
+2025-05-19 00:11:47,653 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:11:48,013 [INFO] [UP] https://facebook.com - UP (HTTP 200, 817.14ms)
+2025-05-19 00:11:58,384 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:11:58,440 [INFO] [UP] https://google.com - UP (HTTP 200, 419.98ms)
+2025-05-19 00:11:58,895 [INFO] [UP] https://facebook.com - UP (HTTP 200, 874.15ms)
+2025-05-19 00:12:07,074 [INFO] Monitoring stopped by user.
+2025-05-19 00:12:39,837 [INFO] Loaded configuration with 3 URLs
+2025-05-19 00:12:43,963 [INFO] Started monitoring 3 URLs with check interval of 10s
+2025-05-19 00:12:44,432 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:12:44,603 [INFO] [UP] https://google.com - UP (HTTP 200, 635.21ms)
+2025-05-19 00:12:44,915 [INFO] [UP] https://facebook.com - UP (HTTP 200, 946.57ms)
+2025-05-19 00:12:55,231 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:12:55,300 [INFO] [UP] https://google.com - UP (HTTP 200, 378.81ms)
+2025-05-19 00:12:55,719 [INFO] [UP] https://facebook.com - UP (HTTP 200, 799.0ms)
+2025-05-19 00:13:06,080 [INFO] [UP] https://google.com - UP (HTTP 200, 357.67ms)
+2025-05-19 00:13:06,089 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:13:06,467 [INFO] [UP] https://facebook.com - UP (HTTP 200, 744.31ms)
+2025-05-19 00:13:16,760 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:13:16,825 [INFO] [UP] https://google.com - UP (HTTP 200, 353.9ms)
+2025-05-19 00:13:17,202 [INFO] [UP] https://facebook.com - UP (HTTP 200, 730.24ms)
+2025-05-19 00:13:27,559 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:13:27,591 [INFO] [UP] https://google.com - UP (HTTP 200, 344.86ms)
+2025-05-19 00:13:28,059 [INFO] [UP] https://facebook.com - UP (HTTP 200, 853.92ms)
+2025-05-19 00:13:38,355 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:13:38,410 [INFO] [UP] https://google.com - UP (HTTP 200, 345.85ms)
+2025-05-19 00:13:38,769 [INFO] [UP] https://facebook.com - UP (HTTP 200, 706.23ms)
+2025-05-19 00:13:49,185 [INFO] [UP] https://google.com - UP (HTTP 200, 413.12ms)
+2025-05-19 00:13:49,201 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:13:49,708 [INFO] [UP] https://facebook.com - UP (HTTP 200, 935.39ms)
+2025-05-19 00:14:00,054 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:14:00,107 [INFO] [UP] https://google.com - UP (HTTP 200, 394.02ms)
+2025-05-19 00:14:00,525 [INFO] [UP] https://facebook.com - UP (HTTP 200, 812.02ms)
+2025-05-19 00:14:10,918 [INFO] [UP] https://google.com - UP (HTTP 200, 389.96ms)
+2025-05-19 00:14:10,961 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:14:11,343 [INFO] [UP] https://facebook.com - UP (HTTP 200, 815.32ms)
+2025-05-19 00:14:21,692 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:14:21,741 [INFO] [UP] https://google.com - UP (HTTP 200, 393.08ms)
+2025-05-19 00:14:22,129 [INFO] [UP] https://facebook.com - UP (HTTP 200, 779.36ms)
+2025-05-19 00:14:32,444 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:14:32,499 [INFO] [UP] https://google.com - UP (HTTP 200, 365.58ms)
+2025-05-19 00:14:32,878 [INFO] [UP] https://facebook.com - UP (HTTP 200, 741.99ms)
+2025-05-19 00:14:34,339 [INFO] Monitoring stopped by user.
+2025-05-19 00:27:57,502 [INFO] Loaded configuration with 3 URLs
+2025-05-19 00:28:01,213 [ERROR] Failed to resolve {'https://openai.com', 'https://facebook.com', 'https://google.com'}: 'set' object has no attribute 'decode'
+2025-05-19 00:28:01,215 [ERROR] Failed to resolve {'https://openai.com', 'https://facebook.com', 'https://google.com'}: 'set' object has no attribute 'decode'
+2025-05-19 00:28:01,217 [ERROR] Failed to resolve {'https://openai.com', 'https://facebook.com', 'https://google.com'}: 'set' object has no attribute 'decode'
+2025-05-19 00:28:01,222 [INFO] Started monitoring 3 URLs with check interval of 10s
+2025-05-19 00:28:01,587 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:28:01,771 [INFO] [UP] https://google.com - UP (HTTP 200, 546.53ms)
+2025-05-19 00:28:02,073 [INFO] [UP] https://facebook.com - UP (HTTP 200, 846.54ms)
+2025-05-19 00:28:10,916 [INFO] Monitoring stopped by user.
+2025-05-19 00:31:46,250 [INFO] Loaded configuration with 3 URLs
+2025-05-19 00:31:59,015 [INFO] Successfully resolved https://openai.com to 172.64.154.211, 104.18.33.45
+2025-05-19 00:31:59,062 [INFO] Successfully resolved https://google.com to 216.239.38.120
+2025-05-19 00:32:03,705 [INFO] Successfully resolved https://facebook.com to 31.13.95.35
+2025-05-19 00:32:03,714 [INFO] Started monitoring 3 URLs with check interval of 10s
+2025-05-19 00:32:04,059 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:32:04,284 [INFO] [UP] https://google.com - UP (HTTP 200, 567.79ms)
+2025-05-19 00:32:04,462 [INFO] [UP] https://facebook.com - UP (HTTP 200, 743.96ms)
+2025-05-19 00:32:14,780 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:32:14,831 [INFO] [UP] https://google.com - UP (HTTP 200, 364.96ms)
+2025-05-19 00:32:15,347 [INFO] [UP] https://facebook.com - UP (HTTP 200, 881.23ms)
+2025-05-19 00:32:25,665 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:32:25,746 [INFO] [UP] https://google.com - UP (HTTP 200, 394.72ms)
+2025-05-19 00:32:26,322 [INFO] [UP] https://facebook.com - UP (HTTP 200, 970.9ms)
+2025-05-19 00:32:36,698 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:32:36,747 [INFO] [UP] https://google.com - UP (HTTP 200, 422.26ms)
+2025-05-19 00:32:37,162 [INFO] [UP] https://facebook.com - UP (HTTP 200, 834.5ms)
+2025-05-19 00:32:40,629 [INFO] Monitoring stopped by user.
+2025-05-19 00:42:34,497 [INFO] Loaded configuration with 3 URLs
+2025-05-19 00:42:48,606 [INFO] Successfully resolved https://openai.com to 172.64.154.211, 104.18.33.45
+2025-05-19 00:42:48,616 [INFO] Successfully resolved https://google.com to 216.239.38.120
+2025-05-19 00:42:48,656 [INFO] Successfully resolved https://facebook.com to 31.13.95.35
+2025-05-19 00:42:48,665 [INFO] Started monitoring 3 URLs with check interval of 10s
+2025-05-19 00:42:49,048 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:42:49,232 [INFO] [UP] https://google.com - UP (HTTP 200, 564.85ms)
+2025-05-19 00:42:49,467 [INFO] [UP] https://facebook.com - UP (HTTP 200, 798.48ms)
+2025-05-19 00:42:59,829 [INFO] [UP] https://google.com - UP (HTTP 200, 356.67ms)
+2025-05-19 00:42:59,839 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:43:00,276 [INFO] [UP] https://facebook.com - UP (HTTP 200, 804.34ms)
+2025-05-19 00:43:10,626 [INFO] [UP] https://google.com - UP (HTTP 200, 346.57ms)
+2025-05-19 00:43:10,632 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:43:10,931 [INFO] [UP] https://facebook.com - UP (HTTP 200, 650.73ms)
+2025-05-19 00:43:21,335 [INFO] [UP] https://google.com - UP (HTTP 200, 368.0ms)
+2025-05-19 00:43:21,345 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:43:21,610 [INFO] [UP] https://facebook.com - UP (HTTP 200, 641.94ms)
+2025-05-19 00:43:31,985 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:43:32,040 [INFO] [UP] https://google.com - UP (HTTP 200, 423.46ms)
+2025-05-19 00:43:32,319 [INFO] [UP] https://facebook.com - UP (HTTP 200, 702.95ms)
+2025-05-19 00:43:42,650 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:43:42,713 [INFO] [UP] https://google.com - UP (HTTP 200, 388.03ms)
+2025-05-19 00:43:43,003 [INFO] [UP] https://facebook.com - UP (HTTP 200, 679.07ms)
+2025-05-19 00:43:53,315 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:43:53,373 [INFO] [UP] https://google.com - UP (HTTP 200, 366.5ms)
+2025-05-19 00:43:53,663 [INFO] [UP] https://facebook.com - UP (HTTP 200, 655.3ms)
+2025-05-19 00:44:04,093 [INFO] [UP] https://google.com - UP (HTTP 200, 425.22ms)
+2025-05-19 00:44:04,096 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:44:04,384 [INFO] [UP] https://facebook.com - UP (HTTP 200, 716.92ms)
+2025-05-19 00:44:14,798 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:44:14,817 [INFO] [UP] https://google.com - UP (HTTP 200, 428.34ms)
+2025-05-19 00:44:15,113 [INFO] [UP] https://facebook.com - UP (HTTP 200, 721.55ms)
+2025-05-19 00:44:25,474 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:44:25,513 [INFO] [UP] https://google.com - UP (HTTP 200, 395.43ms)
+2025-05-19 00:44:25,780 [INFO] [UP] https://facebook.com - UP (HTTP 200, 661.48ms)
+2025-05-19 00:44:36,123 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:44:36,157 [INFO] [UP] https://google.com - UP (HTTP 200, 372.99ms)
+2025-05-19 00:44:36,454 [INFO] [UP] https://facebook.com - UP (HTTP 200, 669.0ms)
+2025-05-19 00:44:46,816 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:44:46,866 [INFO] [UP] https://google.com - UP (HTTP 200, 405.49ms)
+2025-05-19 00:44:47,152 [INFO] [UP] https://facebook.com - UP (HTTP 200, 689.09ms)
+2025-05-19 00:44:57,539 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:44:57,599 [INFO] [UP] https://google.com - UP (HTTP 200, 437.2ms)
+2025-05-19 00:44:57,880 [INFO] [UP] https://facebook.com - UP (HTTP 200, 716.6ms)
+2025-05-19 00:45:08,301 [INFO] [UP] https://google.com - UP (HTTP 200, 415.96ms)
+2025-05-19 00:45:08,313 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:45:08,620 [INFO] [UP] https://facebook.com - UP (HTTP 200, 736.94ms)
+2025-05-19 00:45:19,020 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:45:19,110 [INFO] [UP] https://google.com - UP (HTTP 200, 485.68ms)
+2025-05-19 00:45:19,369 [INFO] [UP] https://facebook.com - UP (HTTP 200, 744.16ms)
+2025-05-19 00:45:29,766 [INFO] [UP] https://google.com - UP (HTTP 200, 390.97ms)
+2025-05-19 00:45:29,781 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:45:30,089 [INFO] [UP] https://facebook.com - UP (HTTP 200, 713.55ms)
+2025-05-19 00:45:40,470 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:45:40,500 [INFO] [UP] https://google.com - UP (HTTP 200, 404.7ms)
+2025-05-19 00:45:40,821 [INFO] [UP] https://facebook.com - UP (HTTP 200, 726.33ms)
+2025-05-19 00:45:51,138 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:45:51,182 [INFO] [UP] https://google.com - UP (HTTP 200, 354.32ms)
+2025-05-19 00:45:51,478 [INFO] [UP] https://facebook.com - UP (HTTP 200, 651.6ms)
+2025-05-19 00:46:02,044 [INFO] [UP] https://google.com - UP (HTTP 200, 557.0ms)
+2025-05-19 00:46:02,095 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:46:02,433 [INFO] [UP] https://facebook.com - UP (HTTP 200, 834.0ms)
+2025-05-19 00:46:13,164 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:46:13,232 [INFO] [UP] https://google.com - UP (HTTP 200, 740.0ms)
+2025-05-19 00:46:13,531 [INFO] [UP] https://facebook.com - UP (HTTP 200, 955.99ms)
+2025-05-19 00:46:23,984 [INFO] [UP] https://google.com - UP (HTTP 200, 448.0ms)
+2025-05-19 00:46:23,990 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:46:24,275 [INFO] [UP] https://facebook.com - UP (HTTP 200, 740.21ms)
+2025-05-19 00:46:34,670 [INFO] [UP] https://google.com - UP (HTTP 200, 389.11ms)
+2025-05-19 00:46:34,678 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:46:34,960 [INFO] [UP] https://facebook.com - UP (HTTP 200, 673.3ms)
+2025-05-19 00:46:45,299 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:46:45,338 [INFO] [UP] https://google.com - UP (HTTP 200, 372.35ms)
+2025-05-19 00:46:45,644 [INFO] [UP] https://facebook.com - UP (HTTP 200, 678.0ms)
+2025-05-19 00:46:55,973 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:46:56,028 [INFO] [UP] https://google.com - UP (HTTP 200, 376.81ms)
+2025-05-19 00:46:56,316 [INFO] [UP] https://facebook.com - UP (HTTP 200, 664.32ms)
+2025-05-19 00:47:06,633 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:47:06,665 [INFO] [UP] https://google.com - UP (HTTP 200, 345.27ms)
+2025-05-19 00:47:06,953 [INFO] [UP] https://facebook.com - UP (HTTP 200, 632.67ms)
+2025-05-19 00:47:17,288 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:47:17,320 [INFO] [UP] https://google.com - UP (HTTP 200, 359.0ms)
+2025-05-19 00:47:17,602 [INFO] [UP] https://facebook.com - UP (HTTP 200, 644.53ms)
+2025-05-19 00:47:27,979 [INFO] [UP] https://google.com - UP (HTTP 200, 372.16ms)
+2025-05-19 00:47:27,992 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:47:28,271 [INFO] [UP] https://facebook.com - UP (HTTP 200, 665.15ms)
+2025-05-19 00:47:38,592 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:47:38,635 [INFO] [UP] https://google.com - UP (HTTP 200, 359.58ms)
+2025-05-19 00:47:38,944 [INFO] [UP] https://facebook.com - UP (HTTP 200, 665.89ms)
+2025-05-19 00:47:49,295 [INFO] [UP] https://google.com - UP (HTTP 200, 344.34ms)
+2025-05-19 00:47:49,305 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:47:49,602 [INFO] [UP] https://facebook.com - UP (HTTP 200, 649.61ms)
+2025-05-19 00:48:00,372 [INFO] [UP] https://google.com - UP (HTTP 200, 763.53ms)
+2025-05-19 00:48:00,374 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:48:01,015 [INFO] [UP] https://facebook.com - UP (HTTP 200, 1406.31ms)
+2025-05-19 00:48:11,377 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:48:11,414 [INFO] [UP] https://google.com - UP (HTTP 200, 394.47ms)
+2025-05-19 00:48:11,698 [INFO] [UP] https://facebook.com - UP (HTTP 200, 677.0ms)
+2025-05-19 00:48:22,141 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:48:22,183 [INFO] [UP] https://google.com - UP (HTTP 200, 472.44ms)
+2025-05-19 00:48:22,476 [INFO] [UP] https://facebook.com - UP (HTTP 200, 764.21ms)
+2025-05-19 00:48:32,839 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:48:32,869 [INFO] [UP] https://google.com - UP (HTTP 200, 388.62ms)
+2025-05-19 00:48:33,188 [INFO] [UP] https://facebook.com - UP (HTTP 200, 707.55ms)
+2025-05-19 00:48:43,540 [INFO] [UP] https://google.com - UP (HTTP 200, 349.37ms)
+2025-05-19 00:48:43,550 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:48:43,852 [INFO] [UP] https://facebook.com - UP (HTTP 200, 660.38ms)
+2025-05-19 00:48:54,176 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:48:54,217 [INFO] [UP] https://google.com - UP (HTTP 200, 359.1ms)
+2025-05-19 00:48:54,543 [INFO] [UP] https://facebook.com - UP (HTTP 200, 684.35ms)
+2025-05-19 00:49:04,980 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:49:05,020 [INFO] [UP] https://google.com - UP (HTTP 200, 470.01ms)
+2025-05-19 00:49:05,327 [INFO] [UP] https://facebook.com - UP (HTTP 200, 777.01ms)
+2025-05-19 00:49:15,827 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:49:15,866 [INFO] [UP] https://google.com - UP (HTTP 200, 531.98ms)
+2025-05-19 00:49:16,152 [INFO] [UP] https://facebook.com - UP (HTTP 200, 818.98ms)
+2025-05-19 00:49:26,476 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:49:26,556 [INFO] [UP] https://google.com - UP (HTTP 200, 400.01ms)
+2025-05-19 00:49:26,776 [INFO] [UP] https://facebook.com - UP (HTTP 200, 621.01ms)
+2025-05-19 00:49:37,187 [INFO] [UP] https://google.com - UP (HTTP 200, 406.0ms)
+2025-05-19 00:49:37,198 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:49:37,493 [INFO] [UP] https://facebook.com - UP (HTTP 200, 712.0ms)
+2025-05-19 00:49:48,009 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:49:48,036 [INFO] [UP] https://google.com - UP (HTTP 200, 532.99ms)
+2025-05-19 00:49:48,323 [INFO] [UP] https://facebook.com - UP (HTTP 200, 818.99ms)
+2025-05-19 00:49:58,665 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:49:58,712 [INFO] [UP] https://google.com - UP (HTTP 200, 384.0ms)
+2025-05-19 00:49:58,992 [INFO] [UP] https://facebook.com - UP (HTTP 200, 662.06ms)
+2025-05-19 00:50:09,336 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:50:09,384 [INFO] [UP] https://google.com - UP (HTTP 200, 388.0ms)
+2025-05-19 00:50:09,663 [INFO] [UP] https://facebook.com - UP (HTTP 200, 666.0ms)
+2025-05-19 00:50:20,025 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:50:20,055 [INFO] [UP] https://google.com - UP (HTTP 200, 387.0ms)
+2025-05-19 00:50:20,353 [INFO] [UP] https://facebook.com - UP (HTTP 200, 685.0ms)
+2025-05-19 00:50:30,694 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:50:30,738 [INFO] [UP] https://google.com - UP (HTTP 200, 380.97ms)
+2025-05-19 00:50:31,029 [INFO] [UP] https://facebook.com - UP (HTTP 200, 671.97ms)
+2025-05-19 00:50:41,382 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:50:41,421 [INFO] [UP] https://google.com - UP (HTTP 200, 387.97ms)
+2025-05-19 00:50:41,698 [INFO] [UP] https://facebook.com - UP (HTTP 200, 665.0ms)
+2025-05-19 00:50:52,017 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:50:52,053 [INFO] [UP] https://google.com - UP (HTTP 200, 351.0ms)
+2025-05-19 00:50:52,335 [INFO] [UP] https://facebook.com - UP (HTTP 200, 632.0ms)
+2025-05-19 00:51:02,663 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:51:02,708 [INFO] [UP] https://google.com - UP (HTTP 200, 369.96ms)
+2025-05-19 00:51:02,990 [INFO] [UP] https://facebook.com - UP (HTTP 200, 651.97ms)
+2025-05-19 00:51:13,360 [INFO] [UP] https://google.com - UP (HTTP 200, 367.0ms)
+2025-05-19 00:51:13,369 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:51:13,651 [INFO] [UP] https://facebook.com - UP (HTTP 200, 629.04ms)
+2025-05-19 00:51:24,024 [INFO] [UP] https://google.com - UP (HTTP 200, 366.52ms)
+2025-05-19 00:51:24,031 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:51:24,380 [INFO] [UP] https://facebook.com - UP (HTTP 200, 722.88ms)
+2025-05-19 00:51:34,735 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:51:34,793 [INFO] [UP] https://google.com - UP (HTTP 200, 406.05ms)
+2025-05-19 00:51:35,060 [INFO] [UP] https://facebook.com - UP (HTTP 200, 672.71ms)
+2025-05-19 00:51:45,399 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:51:45,430 [INFO] [UP] https://google.com - UP (HTTP 200, 366.9ms)
+2025-05-19 00:51:45,706 [INFO] [UP] https://facebook.com - UP (HTTP 200, 640.64ms)
+2025-05-19 00:51:56,273 [INFO] [UP] https://google.com - UP (HTTP 200, 524.0ms)
+2025-05-19 00:51:56,285 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:51:56,571 [INFO] [UP] https://facebook.com - UP (HTTP 200, 814.0ms)
+2025-05-19 00:52:06,894 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:52:06,953 [INFO] [UP] https://google.com - UP (HTTP 200, 369.73ms)
+2025-05-19 00:52:07,258 [INFO] [UP] https://facebook.com - UP (HTTP 200, 672.96ms)
+2025-05-19 00:52:17,568 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:52:17,605 [INFO] [UP] https://google.com - UP (HTTP 200, 340.04ms)
+2025-05-19 00:52:17,894 [INFO] [UP] https://facebook.com - UP (HTTP 200, 627.89ms)
+2025-05-19 00:52:28,212 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:52:28,277 [INFO] [UP] https://google.com - UP (HTTP 200, 377.32ms)
+2025-05-19 00:52:28,550 [INFO] [UP] https://facebook.com - UP (HTTP 200, 652.06ms)
+2025-05-19 00:52:38,876 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:52:38,933 [INFO] [UP] https://google.com - UP (HTTP 200, 377.67ms)
+2025-05-19 00:52:39,539 [INFO] [UP] https://facebook.com - UP (HTTP 200, 983.81ms)
+2025-05-19 00:52:49,904 [INFO] [UP] https://google.com - UP (HTTP 200, 359.61ms)
+2025-05-19 00:52:49,914 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:52:50,209 [INFO] [UP] https://facebook.com - UP (HTTP 200, 666.31ms)
+2025-05-19 00:53:00,536 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:53:00,577 [INFO] [UP] https://google.com - UP (HTTP 200, 362.89ms)
+2025-05-19 00:53:00,855 [INFO] [UP] https://facebook.com - UP (HTTP 200, 640.96ms)
+2025-05-19 00:53:11,180 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:53:11,215 [INFO] [UP] https://google.com - UP (HTTP 200, 355.86ms)
+2025-05-19 00:53:11,512 [INFO] [UP] https://facebook.com - UP (HTTP 200, 653.81ms)
+2025-05-19 00:53:21,914 [INFO] [UP] https://google.com - UP (HTTP 200, 394.99ms)
+2025-05-19 00:53:21,926 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:53:22,197 [INFO] [UP] https://facebook.com - UP (HTTP 200, 681.0ms)
+2025-05-19 00:53:32,579 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:53:32,615 [INFO] [UP] https://google.com - UP (HTTP 200, 413.41ms)
+2025-05-19 00:53:32,912 [INFO] [UP] https://facebook.com - UP (HTTP 200, 711.1ms)
+2025-05-19 00:53:43,242 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:53:43,276 [INFO] [UP] https://google.com - UP (HTTP 200, 359.73ms)
+2025-05-19 00:53:43,579 [INFO] [UP] https://facebook.com - UP (HTTP 200, 662.72ms)
+2025-05-19 00:53:53,911 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:53:53,949 [INFO] [UP] https://google.com - UP (HTTP 200, 365.1ms)
+2025-05-19 00:53:54,212 [INFO] [UP] https://facebook.com - UP (HTTP 200, 628.1ms)
+2025-05-19 00:54:04,508 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:54:04,552 [INFO] [UP] https://google.com - UP (HTTP 200, 332.51ms)
+2025-05-19 00:54:04,907 [INFO] [UP] https://facebook.com - UP (HTTP 200, 686.43ms)
+2025-05-19 00:54:15,240 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:54:15,346 [INFO] [UP] https://google.com - UP (HTTP 200, 434.79ms)
+2025-05-19 00:54:15,563 [INFO] [UP] https://facebook.com - UP (HTTP 200, 653.66ms)
+2025-05-19 00:54:25,859 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:54:25,905 [INFO] [UP] https://google.com - UP (HTTP 200, 338.17ms)
+2025-05-19 00:54:26,199 [INFO] [UP] https://facebook.com - UP (HTTP 200, 631.41ms)
+2025-05-19 00:54:36,533 [INFO] [UP] https://google.com - UP (HTTP 200, 330.51ms)
+2025-05-19 00:54:36,540 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:54:36,835 [INFO] [UP] https://facebook.com - UP (HTTP 200, 631.26ms)
+2025-05-19 00:54:47,190 [INFO] [UP] https://google.com - UP (HTTP 200, 348.81ms)
+2025-05-19 00:54:47,192 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:54:47,477 [INFO] [UP] https://facebook.com - UP (HTTP 200, 634.95ms)
+2025-05-19 00:54:57,796 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:54:57,825 [INFO] [UP] https://google.com - UP (HTTP 200, 343.94ms)
+2025-05-19 00:54:58,175 [INFO] [UP] https://facebook.com - UP (HTTP 200, 694.59ms)
+2025-05-19 00:55:08,588 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:55:08,661 [INFO] [UP] https://google.com - UP (HTTP 200, 481.1ms)
+2025-05-19 00:55:08,903 [INFO] [UP] https://facebook.com - UP (HTTP 200, 721.17ms)
+2025-05-19 00:55:19,350 [INFO] [UP] https://google.com - UP (HTTP 200, 406.82ms)
+2025-05-19 00:55:19,356 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:55:19,635 [INFO] [UP] https://facebook.com - UP (HTTP 200, 691.78ms)
+2025-05-19 00:55:30,158 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:55:30,188 [INFO] [UP] https://google.com - UP (HTTP 200, 545.01ms)
+2025-05-19 00:55:30,479 [INFO] [UP] https://facebook.com - UP (HTTP 200, 833.01ms)
+2025-05-19 00:55:40,835 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:55:40,884 [INFO] [UP] https://google.com - UP (HTTP 200, 398.01ms)
+2025-05-19 00:55:41,181 [INFO] [UP] https://facebook.com - UP (HTTP 200, 563.01ms)
+2025-05-19 00:55:51,567 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:55:51,667 [INFO] [UP] https://google.com - UP (HTTP 200, 480.92ms)
+2025-05-19 00:55:51,911 [INFO] [UP] https://facebook.com - UP (HTTP 200, 723.92ms)
+2025-05-19 00:56:02,357 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:56:02,393 [INFO] [UP] https://google.com - UP (HTTP 200, 470.0ms)
+2025-05-19 00:56:02,679 [INFO] [UP] https://facebook.com - UP (HTTP 200, 756.0ms)
+2025-05-19 00:56:13,165 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:56:13,189 [INFO] [UP] https://google.com - UP (HTTP 200, 505.91ms)
+2025-05-19 00:56:13,458 [INFO] [UP] https://facebook.com - UP (HTTP 200, 774.91ms)
+2025-05-19 00:56:23,896 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:56:23,903 [INFO] [UP] https://google.com - UP (HTTP 200, 441.0ms)
+2025-05-19 00:56:24,159 [INFO] [UP] https://facebook.com - UP (HTTP 200, 696.0ms)
+2025-05-19 00:56:34,527 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:56:34,566 [INFO] [UP] https://google.com - UP (HTTP 200, 404.0ms)
+2025-05-19 00:56:34,863 [INFO] [UP] https://facebook.com - UP (HTTP 200, 663.0ms)
+2025-05-19 00:56:45,264 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:56:45,300 [INFO] [UP] https://google.com - UP (HTTP 200, 432.0ms)
+2025-05-19 00:56:45,580 [INFO] [UP] https://facebook.com - UP (HTTP 200, 695.0ms)
+2025-05-19 00:56:56,010 [INFO] [UP] https://google.com - UP (HTTP 200, 426.01ms)
+2025-05-19 00:56:56,059 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:56:56,308 [INFO] [UP] https://facebook.com - UP (HTTP 200, 723.0ms)
+2025-05-19 00:57:06,714 [INFO] [UP] https://google.com - UP (HTTP 200, 401.99ms)
+2025-05-19 00:57:06,727 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:57:06,998 [INFO] [UP] https://facebook.com - UP (HTTP 200, 685.99ms)
+2025-05-19 00:57:17,519 [INFO] [UP] https://google.com - UP (HTTP 200, 514.0ms)
+2025-05-19 00:57:17,524 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:57:17,799 [INFO] [UP] https://facebook.com - UP (HTTP 200, 793.0ms)
+2025-05-19 00:57:28,169 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:57:28,213 [INFO] [UP] https://google.com - UP (HTTP 200, 410.02ms)
+2025-05-19 00:57:28,493 [INFO] [UP] https://facebook.com - UP (HTTP 200, 690.02ms)
+2025-05-19 00:57:38,866 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:57:38,944 [INFO] [UP] https://google.com - UP (HTTP 200, 447.45ms)
+2025-05-19 00:57:39,207 [INFO] [UP] https://facebook.com - UP (HTTP 200, 709.97ms)
+2025-05-19 00:57:49,601 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:57:49,654 [INFO] [UP] https://google.com - UP (HTTP 200, 441.0ms)
+2025-05-19 00:57:49,927 [INFO] [UP] https://facebook.com - UP (HTTP 200, 714.21ms)
+2025-05-19 00:58:00,258 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:58:00,270 [INFO] [UP] https://google.com - UP (HTTP 200, 337.67ms)
+2025-05-19 00:58:00,616 [INFO] [UP] https://facebook.com - UP (HTTP 200, 680.97ms)
+2025-05-19 00:58:10,945 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:58:11,036 [INFO] [UP] https://google.com - UP (HTTP 200, 412.48ms)
+2025-05-19 00:58:11,302 [INFO] [UP] https://facebook.com - UP (HTTP 200, 674.49ms)
+2025-05-19 00:58:21,716 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:58:21,747 [INFO] [UP] https://google.com - UP (HTTP 200, 439.03ms)
+2025-05-19 00:58:22,025 [INFO] [UP] https://facebook.com - UP (HTTP 200, 693.01ms)
+2025-05-19 00:58:32,371 [INFO] [UP] https://google.com - UP (HTTP 200, 339.23ms)
+2025-05-19 00:58:32,378 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:58:32,657 [INFO] [UP] https://facebook.com - UP (HTTP 200, 624.51ms)
+2025-05-19 00:58:42,977 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:58:43,022 [INFO] [UP] https://google.com - UP (HTTP 200, 359.93ms)
+2025-05-19 00:58:43,350 [INFO] [UP] https://facebook.com - UP (HTTP 200, 685.79ms)
+2025-05-19 00:58:53,740 [INFO] [UP] https://google.com - UP (HTTP 200, 382.71ms)
+2025-05-19 00:58:53,745 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:58:54,091 [INFO] [UP] https://facebook.com - UP (HTTP 200, 735.71ms)
+2025-05-19 00:59:04,412 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:59:04,439 [INFO] [UP] https://google.com - UP (HTTP 200, 343.65ms)
+2025-05-19 00:59:04,726 [INFO] [UP] https://facebook.com - UP (HTTP 200, 628.64ms)
+2025-05-19 00:59:15,077 [INFO] [UP] https://google.com - UP (HTTP 200, 344.81ms)
+2025-05-19 00:59:15,091 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:59:15,380 [INFO] [UP] https://facebook.com - UP (HTTP 200, 645.72ms)
+2025-05-19 00:59:25,699 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:59:25,726 [INFO] [UP] https://google.com - UP (HTTP 200, 340.06ms)
+2025-05-19 00:59:26,035 [INFO] [UP] https://facebook.com - UP (HTTP 200, 648.72ms)
+2025-05-19 00:59:36,404 [INFO] [UP] https://google.com - UP (HTTP 200, 360.66ms)
+2025-05-19 00:59:36,412 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:59:36,866 [INFO] [UP] https://facebook.com - UP (HTTP 200, 823.64ms)
+2025-05-19 00:59:47,228 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:59:47,275 [INFO] [UP] https://google.com - UP (HTTP 200, 403.31ms)
+2025-05-19 00:59:47,703 [INFO] [UP] https://facebook.com - UP (HTTP 200, 830.31ms)
+2025-05-19 00:59:58,126 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 00:59:58,181 [INFO] [UP] https://google.com - UP (HTTP 200, 411.98ms)
+2025-05-19 00:59:58,464 [INFO] [UP] https://facebook.com - UP (HTTP 200, 693.97ms)
+2025-05-19 01:00:08,816 [INFO] [UP] https://google.com - UP (HTTP 200, 345.92ms)
+2025-05-19 01:00:08,822 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:00:09,106 [INFO] [UP] https://facebook.com - UP (HTTP 200, 635.25ms)
+2025-05-19 01:00:19,500 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:00:19,539 [INFO] [UP] https://google.com - UP (HTTP 200, 424.02ms)
+2025-05-19 01:00:19,844 [INFO] [UP] https://facebook.com - UP (HTTP 200, 729.08ms)
+2025-05-19 01:00:30,147 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:00:30,175 [INFO] [UP] https://google.com - UP (HTTP 200, 325.44ms)
+2025-05-19 01:00:30,548 [INFO] [UP] https://facebook.com - UP (HTTP 200, 695.85ms)
+2025-05-19 01:00:40,880 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:00:40,905 [INFO] [UP] https://google.com - UP (HTTP 200, 348.2ms)
+2025-05-19 01:00:41,195 [INFO] [UP] https://facebook.com - UP (HTTP 200, 641.03ms)
+2025-05-19 01:00:51,533 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:00:51,563 [INFO] [UP] https://google.com - UP (HTTP 200, 362.99ms)
+2025-05-19 01:00:51,866 [INFO] [UP] https://facebook.com - UP (HTTP 200, 666.06ms)
+2025-05-19 01:01:02,200 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:01:02,229 [INFO] [UP] https://google.com - UP (HTTP 200, 356.58ms)
+2025-05-19 01:01:02,507 [INFO] [UP] https://facebook.com - UP (HTTP 200, 636.58ms)
+2025-05-19 01:01:12,797 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:01:12,864 [INFO] [UP] https://google.com - UP (HTTP 200, 353.02ms)
+2025-05-19 01:01:13,169 [INFO] [UP] https://facebook.com - UP (HTTP 200, 657.94ms)
+2025-05-19 01:01:23,495 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:01:23,543 [INFO] [UP] https://google.com - UP (HTTP 200, 369.0ms)
+2025-05-19 01:01:23,921 [INFO] [UP] https://facebook.com - UP (HTTP 200, 748.0ms)
+2025-05-19 01:01:34,237 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:01:34,288 [INFO] [UP] https://google.com - UP (HTTP 200, 363.58ms)
+2025-05-19 01:01:34,590 [INFO] [UP] https://facebook.com - UP (HTTP 200, 665.92ms)
+2025-05-19 01:01:45,018 [INFO] [UP] https://google.com - UP (HTTP 200, 422.0ms)
+2025-05-19 01:01:45,021 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:01:45,343 [INFO] [UP] https://facebook.com - UP (HTTP 200, 747.0ms)
+2025-05-19 01:01:55,805 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:01:55,854 [INFO] [UP] https://google.com - UP (HTTP 200, 505.47ms)
+2025-05-19 01:01:56,152 [INFO] [UP] https://facebook.com - UP (HTTP 200, 802.1ms)
+2025-05-19 01:02:06,457 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:02:06,499 [INFO] [UP] https://google.com - UP (HTTP 200, 339.63ms)
+2025-05-19 01:02:07,075 [INFO] [UP] https://facebook.com - UP (HTTP 200, 917.17ms)
+2025-05-19 01:02:17,427 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:02:17,439 [INFO] [UP] https://google.com - UP (HTTP 200, 359.78ms)
+2025-05-19 01:02:17,725 [INFO] [UP] https://facebook.com - UP (HTTP 200, 644.87ms)
+2025-05-19 01:02:28,048 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:02:28,108 [INFO] [UP] https://google.com - UP (HTTP 200, 375.53ms)
+2025-05-19 01:02:28,391 [INFO] [UP] https://facebook.com - UP (HTTP 200, 658.96ms)
+2025-05-19 01:02:38,728 [INFO] [UP] https://google.com - UP (HTTP 200, 333.68ms)
+2025-05-19 01:02:38,738 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:02:39,079 [INFO] [UP] https://facebook.com - UP (HTTP 200, 683.52ms)
+2025-05-19 01:02:49,383 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:02:49,453 [INFO] [UP] https://google.com - UP (HTTP 200, 369.35ms)
+2025-05-19 01:02:49,741 [INFO] [UP] https://facebook.com - UP (HTTP 200, 657.77ms)
+2025-05-19 01:03:00,076 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:03:00,125 [INFO] [UP] https://google.com - UP (HTTP 200, 379.79ms)
+2025-05-19 01:03:00,405 [INFO] [UP] https://facebook.com - UP (HTTP 200, 659.45ms)
+2025-05-19 01:03:10,994 [INFO] [UP] https://google.com - UP (HTTP 200, 583.71ms)
+2025-05-19 01:03:11,034 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:03:11,183 [INFO] [UP] https://facebook.com - UP (HTTP 200, 773.32ms)
+2025-05-19 01:03:21,550 [INFO] [UP] https://google.com - UP (HTTP 200, 361.94ms)
+2025-05-19 01:03:21,557 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:03:21,993 [INFO] [UP] https://facebook.com - UP (HTTP 200, 804.68ms)
+2025-05-19 01:03:32,360 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:03:32,379 [INFO] [UP] https://google.com - UP (HTTP 200, 381.46ms)
+2025-05-19 01:03:32,673 [INFO] [UP] https://facebook.com - UP (HTTP 200, 676.1ms)
+2025-05-19 01:03:43,054 [INFO] [UP] https://google.com - UP (HTTP 200, 375.69ms)
+2025-05-19 01:03:43,196 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:03:43,341 [INFO] [UP] https://facebook.com - UP (HTTP 200, 662.61ms)
+2025-05-19 01:03:53,692 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:03:53,734 [INFO] [UP] https://google.com - UP (HTTP 200, 390.63ms)
+2025-05-19 01:03:53,999 [INFO] [UP] https://facebook.com - UP (HTTP 200, 637.76ms)
+2025-05-19 01:04:04,332 [INFO] [UP] https://google.com - UP (HTTP 200, 329.7ms)
+2025-05-19 01:04:04,336 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:04:04,645 [INFO] [UP] https://facebook.com - UP (HTTP 200, 643.07ms)
+2025-05-19 01:04:14,977 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:04:15,015 [INFO] [UP] https://google.com - UP (HTTP 200, 364.92ms)
+2025-05-19 01:04:15,299 [INFO] [UP] https://facebook.com - UP (HTTP 200, 644.94ms)
+2025-05-19 01:04:25,669 [INFO] [UP] https://google.com - UP (HTTP 200, 366.17ms)
+2025-05-19 01:04:25,676 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:04:25,933 [INFO] [UP] https://facebook.com - UP (HTTP 200, 631.16ms)
+2025-05-19 01:04:36,304 [INFO] [UP] https://google.com - UP (HTTP 200, 366.21ms)
+2025-05-19 01:04:36,308 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:04:36,640 [INFO] [UP] https://facebook.com - UP (HTTP 200, 699.44ms)
+2025-05-19 01:04:47,026 [INFO] [UP] https://google.com - UP (HTTP 200, 377.91ms)
+2025-05-19 01:04:47,046 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:04:47,318 [INFO] [UP] https://facebook.com - UP (HTTP 200, 668.97ms)
+2025-05-19 01:04:57,625 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:04:57,653 [INFO] [UP] https://google.com - UP (HTTP 200, 326.57ms)
+2025-05-19 01:04:57,949 [INFO] [UP] https://facebook.com - UP (HTTP 200, 621.55ms)
+2025-05-19 01:05:08,300 [INFO] [UP] https://google.com - UP (HTTP 200, 342.28ms)
+2025-05-19 01:05:08,306 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:05:08,701 [INFO] [UP] https://facebook.com - UP (HTTP 200, 744.4ms)
+2025-05-19 01:05:19,040 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:05:19,066 [INFO] [UP] https://google.com - UP (HTTP 200, 361.41ms)
+2025-05-19 01:05:19,361 [INFO] [UP] https://facebook.com - UP (HTTP 200, 656.62ms)
+2025-05-19 01:05:29,768 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:05:29,801 [INFO] [UP] https://google.com - UP (HTTP 200, 434.55ms)
+2025-05-19 01:05:30,245 [INFO] [UP] https://facebook.com - UP (HTTP 200, 879.56ms)
+2025-05-19 01:05:40,559 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:05:40,588 [INFO] [UP] https://google.com - UP (HTTP 200, 340.45ms)
+2025-05-19 01:05:40,871 [INFO] [UP] https://facebook.com - UP (HTTP 200, 622.76ms)
+2025-05-19 01:05:51,289 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:05:51,338 [INFO] [UP] https://google.com - UP (HTTP 200, 462.97ms)
+2025-05-19 01:05:51,625 [INFO] [UP] https://facebook.com - UP (HTTP 200, 747.99ms)
+2025-05-19 01:06:01,968 [INFO] [UP] https://google.com - UP (HTTP 200, 336.0ms)
+2025-05-19 01:06:02,014 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:06:02,328 [INFO] [UP] https://facebook.com - UP (HTTP 200, 694.3ms)
+2025-05-19 01:06:12,673 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:06:12,719 [INFO] [UP] https://google.com - UP (HTTP 200, 384.41ms)
+2025-05-19 01:06:13,003 [INFO] [UP] https://facebook.com - UP (HTTP 200, 666.66ms)
+2025-05-19 01:06:23,341 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:06:23,388 [INFO] [UP] https://google.com - UP (HTTP 200, 379.36ms)
+2025-05-19 01:06:23,767 [INFO] [UP] https://facebook.com - UP (HTTP 200, 758.02ms)
+2025-05-19 01:06:34,196 [INFO] [UP] https://google.com - UP (HTTP 200, 421.09ms)
+2025-05-19 01:06:34,241 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:06:34,543 [INFO] [UP] https://facebook.com - UP (HTTP 200, 768.42ms)
+2025-05-19 01:06:45,075 [INFO] [UP] https://google.com - UP (HTTP 200, 528.17ms)
+2025-05-19 01:06:45,314 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:06:45,690 [INFO] [UP] https://facebook.com - UP (HTTP 200, 1140.19ms)
+2025-05-19 01:06:56,032 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:06:56,126 [INFO] [UP] https://google.com - UP (HTTP 200, 428.76ms)
+2025-05-19 01:06:56,438 [INFO] [UP] https://facebook.com - UP (HTTP 200, 739.63ms)
+2025-05-19 01:07:06,773 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:07:06,833 [INFO] [UP] https://google.com - UP (HTTP 200, 391.07ms)
+2025-05-19 01:07:07,105 [INFO] [UP] https://facebook.com - UP (HTTP 200, 662.94ms)
+2025-05-19 01:07:17,650 [INFO] [UP] https://google.com - UP (HTTP 200, 539.94ms)
+2025-05-19 01:07:17,675 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:07:17,948 [INFO] [UP] https://facebook.com - UP (HTTP 200, 837.99ms)
+2025-05-19 01:07:28,273 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:07:28,391 [INFO] [UP] https://google.com - UP (HTTP 200, 427.17ms)
+2025-05-19 01:07:28,648 [INFO] [UP] https://facebook.com - UP (HTTP 200, 684.71ms)
+2025-05-19 01:07:39,059 [INFO] [UP] https://google.com - UP (HTTP 200, 406.95ms)
+2025-05-19 01:07:39,077 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:07:39,343 [INFO] [UP] https://facebook.com - UP (HTTP 200, 689.07ms)
+2025-05-19 01:07:49,663 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:07:49,766 [INFO] [UP] https://google.com - UP (HTTP 200, 417.37ms)
+2025-05-19 01:07:50,064 [INFO] [UP] https://facebook.com - UP (HTTP 200, 715.02ms)
+2025-05-19 01:08:00,408 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:08:00,527 [INFO] [UP] https://google.com - UP (HTTP 200, 458.2ms)
+2025-05-19 01:08:00,817 [INFO] [UP] https://facebook.com - UP (HTTP 200, 747.81ms)
+2025-05-19 01:08:11,233 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:08:11,363 [INFO] [UP] https://google.com - UP (HTTP 200, 538.03ms)
+2025-05-19 01:08:11,673 [INFO] [UP] https://facebook.com - UP (HTTP 200, 850.04ms)
+2025-05-19 01:08:22,159 [INFO] [UP] https://google.com - UP (HTTP 200, 482.72ms)
+2025-05-19 01:08:22,172 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:08:22,419 [INFO] [UP] https://facebook.com - UP (HTTP 200, 741.53ms)
+2025-05-19 01:08:32,877 [INFO] [UP] https://google.com - UP (HTTP 200, 451.97ms)
+2025-05-19 01:08:33,166 [INFO] [UP] https://facebook.com - UP (HTTP 200, 740.59ms)
+2025-05-19 01:08:42,770 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:08:53,159 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:08:53,267 [INFO] [UP] https://google.com - UP (HTTP 200, 490.0ms)
+2025-05-19 01:08:53,536 [INFO] [UP] https://facebook.com - UP (HTTP 200, 726.0ms)
+2025-05-19 01:09:03,943 [INFO] [UP] https://google.com - UP (HTTP 200, 402.62ms)
+2025-05-19 01:09:03,955 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:09:04,219 [INFO] [UP] https://facebook.com - UP (HTTP 200, 677.6ms)
+2025-05-19 01:09:14,661 [INFO] [UP] https://google.com - UP (HTTP 200, 434.0ms)
+2025-05-19 01:09:14,666 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:09:14,964 [INFO] [UP] https://facebook.com - UP (HTTP 200, 599.18ms)
+2025-05-19 01:09:25,367 [INFO] [UP] https://google.com - UP (HTTP 200, 395.72ms)
+2025-05-19 01:09:25,372 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:09:25,685 [INFO] [UP] https://facebook.com - UP (HTTP 200, 712.71ms)
+2025-05-19 01:09:36,068 [INFO] [UP] https://google.com - UP (HTTP 200, 375.98ms)
+2025-05-19 01:09:36,075 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:09:36,343 [INFO] [UP] https://facebook.com - UP (HTTP 200, 652.21ms)
+2025-05-19 01:09:39,435 [INFO] Monitoring stopped by user.
+2025-05-19 01:17:25,569 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:17:25,570 [INFO] Author: Xnuvers007
+2025-05-19 01:17:25,571 [INFO] Advanced Website Downdetector started.
+2025-05-19 01:17:25,574 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:17:25,576 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:17:25,578 [INFO] Loaded configuration with 3 URLs
+2025-05-19 01:19:24,855 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:19:24,856 [INFO] Author: Xnuvers007
+2025-05-19 01:19:24,857 [INFO] Advanced Website Downdetector started.
+2025-05-19 01:19:24,860 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:19:24,863 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:19:24,865 [INFO] Loaded configuration with 3 URLs
+2025-05-19 01:20:02,607 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:20:02,609 [INFO] Author: Xnuvers007
+2025-05-19 01:20:02,610 [INFO] Advanced Website Downdetector started.
+2025-05-19 01:20:02,613 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:20:02,616 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:20:02,618 [INFO] Loaded configuration with 3 URLs
+2025-05-19 01:22:03,687 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:22:03,689 [INFO] Author: Xnuvers007
+2025-05-19 01:22:03,689 [INFO] Advanced Website Downdetector started.
+2025-05-19 01:22:03,693 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:22:03,697 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:22:03,699 [INFO] Loaded configuration with 3 URLs
+2025-05-19 01:22:37,269 [INFO] Successfully resolved https://stackoverflow.com to 172.64.155.249, 104.18.32.7
+2025-05-19 01:22:37,277 [INFO] Started monitoring 1 URLs with check interval of 10s
+2025-05-19 01:22:38,836 [INFO] [UP] https://stackoverflow.com - UP (HTTP 200, 1556.06ms)
+2025-05-19 01:22:46,404 [INFO] Monitoring stopped by user.
+2025-05-19 01:23:25,583 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:23:25,587 [INFO] Author: Xnuvers007
+2025-05-19 01:23:25,589 [INFO] Advanced Website Downdetector started.
+2025-05-19 01:23:25,597 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:23:25,600 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:23:25,605 [INFO] Loaded configuration with 1 URLs
+2025-05-19 01:23:40,404 [INFO] Successfully resolved https://facebook.com to 31.13.95.35
+2025-05-19 01:23:40,422 [INFO] Successfully resolved https://google.com to 216.239.38.120
+2025-05-19 01:23:49,522 [INFO] Successfully resolved https://openai.com to 172.64.154.211, 104.18.33.45
+2025-05-19 01:23:49,546 [INFO] Started monitoring 3 URLs with check interval of 10s
+2025-05-19 01:23:49,882 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:23:50,077 [INFO] [UP] https://google.com - UP (HTTP 200, 525.14ms)
+2025-05-19 01:23:50,290 [INFO] [UP] https://facebook.com - UP (HTTP 200, 738.61ms)
+2025-05-19 01:23:52,540 [INFO] Monitoring stopped by user.
+2025-05-19 01:25:21,385 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:25:21,387 [INFO] Author: Xnuvers007
+2025-05-19 01:25:21,387 [INFO] Advanced Website Downdetector started.
+2025-05-19 01:25:21,390 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:25:21,393 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:25:21,395 [INFO] Loaded configuration with 3 URLs
+2025-05-19 01:25:47,825 [INFO] Successfully resolved https://stackoverflow.com to 172.64.155.249, 104.18.32.7
+2025-05-19 01:25:47,846 [INFO] Started monitoring 1 URLs with check interval of 10s
+2025-05-19 01:25:49,028 [INFO] [UP] https://stackoverflow.com - UP (HTTP 200, 1178.22ms)
+2025-05-19 01:25:51,236 [INFO] Monitoring stopped by user.
+2025-05-19 01:25:55,461 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:25:55,462 [INFO] Author: Xnuvers007
+2025-05-19 01:25:55,463 [INFO] Advanced Website Downdetector started.
+2025-05-19 01:25:55,465 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:25:55,467 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:25:55,470 [INFO] Loaded configuration with 1 URLs
+2025-05-19 01:26:16,819 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:26:16,820 [INFO] Author: Xnuvers007
+2025-05-19 01:26:16,821 [INFO] Advanced Website Downdetector started.
+2025-05-19 01:26:16,824 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:26:16,826 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:26:16,828 [INFO] Loaded configuration with 1 URLs
+2025-05-19 01:26:44,730 [INFO] Successfully resolved https://openai.com to 104.18.33.45, 172.64.154.211
+2025-05-19 01:26:44,749 [INFO] Successfully resolved https://google.com to 216.239.38.120
+2025-05-19 01:26:44,759 [INFO] Successfully resolved https://facebook.com to 31.13.95.35
+2025-05-19 01:26:44,769 [INFO] Started monitoring 3 URLs with check interval of 10s
+2025-05-19 01:26:45,110 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:26:45,262 [INFO] [UP] https://google.com - UP (HTTP 200, 490.79ms)
+2025-05-19 01:26:45,494 [INFO] [UP] https://facebook.com - UP (HTTP 200, 698.71ms)
+2025-05-19 01:26:47,655 [INFO] Monitoring stopped by user.
+2025-05-19 01:28:48,374 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:28:48,376 [INFO] Author: Xnuvers007
+2025-05-19 01:28:48,376 [INFO] Advanced Website Downdetector started.
+2025-05-19 01:28:48,379 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:28:48,382 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:28:48,384 [INFO] Loaded configuration with 3 URLs
+2025-05-19 01:29:12,642 [INFO] Successfully resolved https://stackoverflow.com to 172.64.155.249, 104.18.32.7
+2025-05-19 01:29:12,654 [INFO] Started monitoring 1 URLs with check interval of 10s
+2025-05-19 01:29:13,446 [INFO] [UP] https://stackoverflow.com - UP (HTTP 200, 789.15ms)
+2025-05-19 01:29:24,150 [INFO] [UP] https://stackoverflow.com - UP (HTTP 200, 700.16ms)
+2025-05-19 01:29:26,973 [INFO] Monitoring stopped by user.
+2025-05-19 01:31:32,391 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:31:32,398 [INFO] Author: Xnuvers007
+2025-05-19 01:31:32,399 [INFO] Advanced Website Downdetector started.
+2025-05-19 01:31:32,404 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:31:32,406 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:31:32,408 [INFO] Loaded configuration with 1 URLs
+2025-05-19 01:32:09,242 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:32:09,243 [INFO] Author: Xnuvers007
+2025-05-19 01:32:09,243 [INFO] Advanced Website Downdetector started.
+2025-05-19 01:32:09,246 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:32:09,248 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:32:09,250 [INFO] Loaded configuration with 1 URLs
+2025-05-19 01:32:22,099 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:32:22,100 [INFO] Author: Xnuvers007
+2025-05-19 01:32:22,101 [INFO] Advanced Website Downdetector started.
+2025-05-19 01:32:22,105 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:32:22,109 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:32:22,110 [INFO] Loaded configuration with 1 URLs
+2025-05-19 01:32:38,358 [INFO] Successfully resolved https://facebook.com to 31.13.95.35
+2025-05-19 01:32:47,421 [INFO] Successfully resolved https://openai.com to 104.18.33.45, 172.64.154.211
+2025-05-19 01:32:47,431 [INFO] Successfully resolved https://google.com to 216.239.38.120
+2025-05-19 01:32:47,441 [INFO] Started monitoring 3 URLs with check interval of 10s
+2025-05-19 01:32:47,834 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:32:47,944 [INFO] [UP] https://google.com - UP (HTTP 200, 478.55ms)
+2025-05-19 01:32:48,204 [INFO] [UP] https://facebook.com - UP (HTTP 200, 760.62ms)
+2025-05-19 01:32:52,040 [INFO] Monitoring stopped by user.
+2025-05-19 01:37:01,637 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:37:01,638 [INFO] Author: Xnuvers007
+2025-05-19 01:37:01,639 [INFO] Advanced Website Downdetector started.
+2025-05-19 01:37:01,646 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:37:01,651 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:37:01,663 [INFO] Loaded configuration with 3 URLs
+2025-05-19 01:37:14,188 [INFO] Successfully resolved https://google.com to 216.239.38.120
+2025-05-19 01:37:14,205 [INFO] Successfully resolved https://facebook.com to 31.13.95.35
+2025-05-19 01:37:23,289 [INFO] Successfully resolved https://openai.com to 104.18.33.45, 172.64.154.211
+2025-05-19 01:37:32,371 [INFO] Successfully resolved https://stackoverflow.com to 172.64.155.249, 104.18.32.7
+2025-05-19 01:37:32,383 [INFO] Started monitoring 4 URLs with check interval of 10s
+2025-05-19 01:37:32,778 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:37:32,926 [INFO] [UP] https://google.com - UP (HTTP 200, 540.55ms)
+2025-05-19 01:37:33,233 [INFO] [UP] https://facebook.com - UP (HTTP 200, 847.1ms)
+2025-05-19 01:37:33,695 [INFO] [UP] https://stackoverflow.com - UP (HTTP 200, 1308.3ms)
+2025-05-19 01:37:38,062 [INFO] Monitoring stopped by user.
+2025-05-19 01:40:24,924 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:40:24,925 [INFO] Author: Xnuvers007
+2025-05-19 01:40:24,926 [INFO] Advanced Website Downdetector started.
+2025-05-19 01:40:24,929 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:40:24,935 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:40:24,938 [INFO] Loaded configuration with 4 URLs
+2025-05-19 01:40:50,395 [INFO] Successfully resolved https://stackoverflow.com to 104.18.32.7, 172.64.155.249
+2025-05-19 01:40:55,011 [INFO] Successfully resolved https://facebook.com to 31.13.95.35
+2025-05-19 01:41:04,117 [INFO] Successfully resolved https://openai.com to 104.18.33.45, 172.64.154.211
+2025-05-19 01:41:13,198 [INFO] Successfully resolved https://x.com to 162.159.140.229, 172.66.0.227
+2025-05-19 01:41:13,206 [INFO] Successfully resolved https://google.com to 216.239.38.120
+2025-05-19 01:41:13,214 [INFO] Started monitoring 5 URLs with check interval of 10s
+2025-05-19 01:41:13,649 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:41:13,807 [INFO] [UP] https://google.com - UP (HTTP 200, 559.73ms)
+2025-05-19 01:41:13,916 [INFO] [UP] https://x.com - UP (HTTP 200, 700.47ms)
+2025-05-19 01:41:14,008 [INFO] [UP] https://facebook.com - UP (HTTP 200, 792.06ms)
+2025-05-19 01:41:14,252 [INFO] [UP] https://stackoverflow.com - UP (HTTP 200, 1037.69ms)
+2025-05-19 01:41:24,664 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:41:24,707 [INFO] [UP] https://google.com - UP (HTTP 200, 379.21ms)
+2025-05-19 01:41:24,865 [INFO] [UP] https://x.com - UP (HTTP 200, 604.49ms)
+2025-05-19 01:41:25,037 [INFO] [UP] https://facebook.com - UP (HTTP 200, 781.06ms)
+2025-05-19 01:41:25,149 [INFO] [UP] https://stackoverflow.com - UP (HTTP 200, 894.21ms)
+2025-05-19 01:41:35,674 [INFO] [UP] https://google.com - UP (HTTP 200, 475.0ms)
+2025-05-19 01:41:35,686 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:41:35,892 [INFO] [UP] https://x.com - UP (HTTP 200, 692.01ms)
+2025-05-19 01:41:35,978 [INFO] [UP] https://facebook.com - UP (HTTP 200, 821.01ms)
+2025-05-19 01:41:36,121 [INFO] [UP] https://stackoverflow.com - UP (HTTP 200, 966.01ms)
+2025-05-19 01:41:36,128 [INFO] Monitoring stopped by user.
+2025-05-19 01:43:29,934 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:43:29,935 [INFO] Author: Xnuvers007
+2025-05-19 01:43:29,936 [INFO] Advanced Website Downdetector started.
+2025-05-19 01:43:29,941 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:43:29,944 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:43:29,945 [INFO] Loaded configuration with 5 URLs
+2025-05-19 01:43:46,748 [INFO] Successfully resolved https://google.com to 216.239.38.120
+2025-05-19 01:43:46,763 [INFO] Successfully resolved https://facebook.com to 31.13.95.35
+2025-05-19 01:43:55,826 [INFO] Successfully resolved https://openai.com to 172.64.154.211, 104.18.33.45
+2025-05-19 01:44:04,892 [INFO] Successfully resolved https://x.com to 172.66.0.227, 162.159.140.229
+2025-05-19 01:44:13,967 [INFO] Successfully resolved https://stackoverflow.com to 104.18.32.7, 172.64.155.249
+2025-05-19 01:44:13,985 [INFO] Started monitoring 5 URLs with check interval of 10s
+2025-05-19 01:44:14,466 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:44:14,609 [INFO] [UP] https://google.com - UP (HTTP 200, 621.44ms)
+2025-05-19 01:44:14,746 [INFO] [UP] https://x.com - UP (HTTP 200, 739.02ms)
+2025-05-19 01:44:14,964 [INFO] [UP] https://facebook.com - UP (HTTP 200, 976.31ms)
+2025-05-19 01:44:15,046 [INFO] [UP] https://stackoverflow.com - UP (HTTP 200, 986.47ms)
+2025-05-19 01:44:25,499 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:44:25,540 [INFO] [UP] https://google.com - UP (HTTP 200, 489.35ms)
+2025-05-19 01:44:25,714 [INFO] [UP] https://x.com - UP (HTTP 200, 660.37ms)
+2025-05-19 01:44:25,867 [INFO] [UP] https://facebook.com - UP (HTTP 200, 814.37ms)
+2025-05-19 01:44:25,986 [INFO] [UP] https://stackoverflow.com - UP (HTTP 200, 750.98ms)
+2025-05-19 01:44:26,404 [INFO] Monitoring stopped by user.
+2025-05-19 01:44:51,174 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:44:51,175 [INFO] Author: Xnuvers007
+2025-05-19 01:44:51,176 [INFO] Advanced Website Downdetector started.
+2025-05-19 01:44:51,179 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:44:51,183 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:44:51,185 [INFO] Loaded configuration with 5 URLs
+2025-05-19 01:44:59,360 [INFO] Successfully resolved https://google.com to 216.239.38.120
+2025-05-19 01:45:08,430 [INFO] Successfully resolved https://stackoverflow.com to 172.64.155.249, 104.18.32.7
+2025-05-19 01:45:08,437 [INFO] Successfully resolved https://facebook.com to 31.13.95.35
+2025-05-19 01:45:17,491 [INFO] Successfully resolved https://openai.com to 172.64.154.211, 104.18.33.45
+2025-05-19 01:45:26,561 [INFO] Successfully resolved https://x.com to 172.66.0.227, 162.159.140.229
+2025-05-19 01:45:35,640 [INFO] Successfully resolved https://stackoverflow.com to 172.64.155.249, 104.18.32.7
+2025-05-19 01:48:53,188 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:48:53,189 [INFO] Author: Xnuvers007
+2025-05-19 01:48:53,190 [INFO] Advanced Website Downdetector started.
+2025-05-19 01:48:53,193 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:48:53,196 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:48:53,198 [INFO] Loaded configuration with 5 URLs
+2025-05-19 01:49:11,193 [INFO] Successfully resolved https://stackoverflow.com to 172.64.155.249, 104.18.32.7
+2025-05-19 01:49:20,288 [INFO] Successfully resolved https://x.com to 172.66.0.227, 162.159.140.229
+2025-05-19 01:49:20,302 [INFO] Successfully resolved https://google.com to 216.239.38.120
+2025-05-19 01:49:29,386 [INFO] Successfully resolved https://openai.com to 172.64.154.211, 104.18.33.45
+2025-05-19 01:49:29,405 [INFO] Successfully resolved https://facebook.com to 31.13.95.35
+2025-05-19 01:49:29,421 [INFO] Started monitoring 5 URLs with check interval of 10s
+2025-05-19 01:49:29,863 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:49:30,058 [INFO] [UP] https://google.com - UP (HTTP 200, 634.85ms)
+2025-05-19 01:49:30,194 [INFO] [UP] https://x.com - UP (HTTP 200, 771.85ms)
+2025-05-19 01:49:30,303 [INFO] [UP] https://facebook.com - UP (HTTP 200, 771.74ms)
+2025-05-19 01:49:30,397 [INFO] [UP] https://stackoverflow.com - UP (HTTP 200, 973.53ms)
+2025-05-19 01:49:40,983 [INFO] [UP] https://google.com - UP (HTTP 200, 580.55ms)
+2025-05-19 01:49:40,992 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:49:41,187 [INFO] [UP] https://x.com - UP (HTTP 200, 786.64ms)
+2025-05-19 01:49:41,293 [INFO] [UP] https://facebook.com - UP (HTTP 200, 842.41ms)
+2025-05-19 01:49:41,428 [INFO] [UP] https://stackoverflow.com - UP (HTTP 200, 1026.15ms)
+2025-05-19 01:49:45,234 [INFO] Monitoring stopped by user.
+2025-05-19 01:52:21,075 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:52:21,076 [INFO] Author: Xnuvers007
+2025-05-19 01:52:21,077 [INFO] Advanced Website Downdetector started.
+2025-05-19 01:52:21,080 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:52:21,082 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:52:21,084 [INFO] Loaded configuration with 5 URLs
+2025-05-19 01:52:29,116 [INFO] Successfully resolved https://facebook.com to 31.13.95.35
+2025-05-19 01:52:38,190 [INFO] Successfully resolved https://stackoverflow.com to 172.64.155.249, 104.18.32.7
+2025-05-19 01:52:47,265 [INFO] Successfully resolved https://openai.com to 104.18.33.45, 172.64.154.211
+2025-05-19 01:52:47,284 [INFO] Successfully resolved https://google.com to 216.239.38.120
+2025-05-19 01:52:56,370 [INFO] Successfully resolved https://x.com to 172.66.0.227, 162.159.140.229
+2025-05-19 01:52:56,398 [INFO] Started monitoring 5 URLs with check interval of 10s
+2025-05-19 01:52:56,844 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:52:56,977 [INFO] [UP] https://google.com - UP (HTTP 200, 472.62ms)
+2025-05-19 01:52:57,107 [INFO] [UP] https://x.com - UP (HTTP 200, 602.8ms)
+2025-05-19 01:52:57,322 [INFO] [UP] https://facebook.com - UP (HTTP 200, 918.1ms)
+2025-05-19 01:52:57,358 [INFO] [UP] https://stackoverflow.com - UP (HTTP 200, 957.86ms)
+2025-05-19 01:53:07,791 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:53:07,824 [INFO] [UP] https://google.com - UP (HTTP 200, 460.15ms)
+2025-05-19 01:53:07,982 [INFO] [UP] https://x.com - UP (HTTP 200, 585.67ms)
+2025-05-19 01:53:08,136 [INFO] [UP] https://facebook.com - UP (HTTP 200, 773.98ms)
+2025-05-19 01:53:08,264 [INFO] [UP] https://stackoverflow.com - UP (HTTP 200, 902.21ms)
+2025-05-19 01:53:11,519 [INFO] Monitoring stopped by user.
+2025-05-19 01:55:15,417 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:55:15,418 [INFO] Author: Xnuvers007
+2025-05-19 01:55:15,419 [INFO] Advanced Website Downdetector started.
+2025-05-19 01:55:15,422 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:55:15,425 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 01:55:15,427 [INFO] Loaded configuration with 5 URLs
+2025-05-19 01:55:25,855 [INFO] Successfully resolved https://facebook.com to 31.13.95.35
+2025-05-19 01:55:25,860 [INFO] Successfully resolved https://google.com to 216.239.38.120
+2025-05-19 01:55:34,920 [INFO] Successfully resolved https://openai.com to 172.64.154.211, 104.18.33.45
+2025-05-19 01:55:43,978 [INFO] Successfully resolved https://stackoverflow.com to 172.64.155.249, 104.18.32.7
+2025-05-19 01:55:53,082 [INFO] Successfully resolved https://x.com to 162.159.140.229, 172.66.0.227
+2025-05-19 01:55:53,112 [INFO] Started monitoring 5 URLs with check interval of 10s
+2025-05-19 01:55:53,548 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:55:53,714 [INFO] [UP] https://google.com - UP (HTTP 200, 597.84ms)
+2025-05-19 01:55:53,808 [INFO] [UP] https://x.com - UP (HTTP 200, 624.1ms)
+2025-05-19 01:55:54,006 [INFO] [UP] https://facebook.com - UP (HTTP 200, 887.67ms)
+2025-05-19 01:55:54,922 [INFO] [UP] https://stackoverflow.com - UP (HTTP 200, 1805.93ms)
+2025-05-19 01:56:05,476 [INFO] [UP] https://google.com - UP (HTTP 200, 550.0ms)
+2025-05-19 01:56:05,801 [INFO] [UP] https://x.com - UP (HTTP 200, 861.3ms)
+2025-05-19 01:56:05,828 [INFO] [UP] https://facebook.com - UP (HTTP 200, 901.3ms)
+2025-05-19 01:56:05,992 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 01:56:06,327 [INFO] [UP] https://stackoverflow.com - UP (HTTP 200, 1401.3ms)
+2025-05-19 01:56:11,022 [INFO] Monitoring stopped by user.
+2025-05-19 02:03:27,672 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 02:03:27,673 [INFO] Author: Xnuvers007
+2025-05-19 02:03:27,674 [INFO] Advanced Website Downdetector started.
+2025-05-19 02:03:27,677 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 02:03:27,680 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 02:03:27,683 [INFO] Loaded configuration with 5 URLs
+2025-05-19 02:03:38,478 [INFO] Successfully resolved https://facebook.com to 31.13.95.35
+2025-05-19 02:03:38,485 [INFO] Successfully resolved https://google.com to 216.239.38.120
+2025-05-19 02:03:47,546 [INFO] Successfully resolved https://x.com to 162.159.140.229, 172.66.0.227
+2025-05-19 02:03:47,548 [INFO] Successfully resolved https://openai.com to 172.64.154.211, 104.18.33.45
+2025-05-19 02:03:47,549 [INFO] Successfully resolved https://stackoverflow.com to 104.18.32.7, 172.64.155.249
+2025-05-19 02:03:47,598 [INFO] Started monitoring 5 URLs with check interval of 10s
+2025-05-19 02:03:48,046 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 02:03:48,219 [INFO] [UP] https://google.com - UP (HTTP 200, 602.83ms)
+2025-05-19 02:03:48,330 [INFO] [UP] https://x.com - UP (HTTP 200, 669.01ms)
+2025-05-19 02:03:48,463 [INFO] [UP] https://facebook.com - UP (HTTP 200, 860.12ms)
+2025-05-19 02:03:48,578 [INFO] [UP] https://stackoverflow.com - UP (HTTP 200, 976.73ms)
+2025-05-19 02:03:59,122 [INFO] [UP] https://google.com - UP (HTTP 200, 520.3ms)
+2025-05-19 02:03:59,129 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 02:03:59,299 [INFO] [UP] https://x.com - UP (HTTP 200, 647.59ms)
+2025-05-19 02:03:59,486 [INFO] [UP] https://facebook.com - UP (HTTP 200, 902.87ms)
+2025-05-19 02:03:59,566 [INFO] [UP] https://stackoverflow.com - UP (HTTP 200, 985.57ms)
+2025-05-19 02:04:09,975 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 02:04:10,029 [INFO] [UP] https://google.com - UP (HTTP 200, 457.33ms)
+2025-05-19 02:04:10,223 [INFO] [UP] https://x.com - UP (HTTP 200, 521.55ms)
+2025-05-19 02:04:10,329 [INFO] [UP] https://facebook.com - UP (HTTP 200, 757.78ms)
+2025-05-19 02:04:10,877 [INFO] [UP] https://stackoverflow.com - UP (HTTP 200, 1307.22ms)
+2025-05-19 02:04:21,295 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 02:04:21,336 [INFO] [UP] https://google.com - UP (HTTP 200, 455.23ms)
+2025-05-19 02:04:21,525 [INFO] [UP] https://x.com - UP (HTTP 200, 540.24ms)
+2025-05-19 02:04:21,654 [INFO] [UP] https://facebook.com - UP (HTTP 200, 772.86ms)
+2025-05-19 02:04:21,822 [INFO] [UP] https://stackoverflow.com - UP (HTTP 200, 940.58ms)
+2025-05-19 02:04:23,836 [INFO] Monitoring stopped by user.
+2025-05-19 02:04:28,519 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 02:04:28,521 [INFO] Author: Xnuvers007
+2025-05-19 02:04:28,521 [INFO] Advanced Website Downdetector started.
+2025-05-19 02:04:28,524 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 02:04:28,527 [WARNING] Author attribution modified. Please respect original attribution.
+2025-05-19 02:04:28,528 [INFO] Loaded configuration with 5 URLs
+2025-05-19 02:04:33,375 [INFO] Successfully resolved https://facebook.com to 31.13.95.35
+2025-05-19 02:04:33,377 [INFO] Successfully resolved https://google.com to 216.239.38.120
+2025-05-19 02:04:42,422 [INFO] Successfully resolved https://x.com to 172.66.0.227, 162.159.140.229
+2025-05-19 02:04:42,423 [INFO] Successfully resolved https://openai.com to 104.18.33.45, 172.64.154.211
+2025-05-19 02:04:42,424 [INFO] Successfully resolved https://stackoverflow.com to 104.18.32.7, 172.64.155.249
+2025-05-19 02:04:42,464 [INFO] Started monitoring 5 URLs with check interval of 10s
+2025-05-19 02:04:43,002 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 02:04:43,187 [INFO] [UP] https://google.com - UP (HTTP 200, 721.03ms)
+2025-05-19 02:04:43,309 [INFO] [UP] https://x.com - UP (HTTP 200, 794.0ms)
+2025-05-19 02:04:43,377 [INFO] [UP] https://facebook.com - UP (HTTP 200, 910.06ms)
+2025-05-19 02:04:43,527 [INFO] [UP] https://stackoverflow.com - UP (HTTP 200, 1061.0ms)
+2025-05-19 02:04:53,961 [INFO] [UP] https://google.com - UP (HTTP 200, 430.0ms)
+2025-05-19 02:04:53,974 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 02:04:54,209 [INFO] [UP] https://x.com - UP (HTTP 200, 678.0ms)
+2025-05-19 02:04:54,413 [INFO] [UP] https://stackoverflow.com - UP (HTTP 200, 882.0ms)
+2025-05-19 02:04:54,684 [INFO] [UP] https://facebook.com - UP (HTTP 200, 1153.0ms)
+2025-05-19 02:05:05,103 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 02:05:05,135 [INFO] [UP] https://google.com - UP (HTTP 200, 447.12ms)
+2025-05-19 02:05:05,325 [INFO] [UP] https://x.com - UP (HTTP 200, 638.5ms)
+2025-05-19 02:05:05,613 [INFO] [UP] https://facebook.com - UP (HTTP 200, 926.08ms)
+2025-05-19 02:05:05,615 [INFO] [UP] https://stackoverflow.com - UP (HTTP 200, 928.09ms)
+2025-05-19 02:05:16,139 [INFO] [UP] https://google.com - UP (HTTP 200, 519.39ms)
+2025-05-19 02:05:16,146 [WARNING] [DOWN] https://openai.com - DOWN
+2025-05-19 02:05:16,338 [INFO] [UP] https://x.com - UP (HTTP 200, 718.17ms)
+2025-05-19 02:05:16,558 [INFO] [UP] https://facebook.com - UP (HTTP 200, 936.67ms)
+2025-05-19 02:05:16,586 [INFO] [UP] https://stackoverflow.com - UP (HTTP 200, 967.61ms)
+2025-05-19 02:05:20,334 [INFO] Monitoring stopped by user.

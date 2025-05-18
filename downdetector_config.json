@@ -1,0 +1,11 @@
+{
+  "urls": [
+    "https://stackoverflow.com",
+    "https://google.com",
+    "https://facebook.com",
+    "https://x.com",
+    "https://openai.com"
+  ],
+  "check_interval": 10,
+  "last_updated": "2025-05-19T02:05:20.335459"
+}

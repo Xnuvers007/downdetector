@@ -1,125 +1,147 @@
-# 🔍 DownDetector
+# 🔍 Downdetector
 
-[![Python](https://img.shields.io/badge/Python-3.6%2B-blue)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)
+![Python](https://img.shields.io/badge/python-3.6%2B-brightgreen.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-A robust, multi-threaded tool for real-time website monitoring and downtime detection with detailed diagnostics.
+A powerful, multithreaded tool for monitoring website availability and detecting downtime with advanced features like IP resolution, CDN detection, and SSL validation.
 
 ## ✨ Features
 
-- **Real-time Website Monitoring**: Continuously check website availability with configurable intervals
-- **Multi-threaded Performance**: Efficiently monitor multiple websites simultaneously
-- **Intelligent Rate Limiting**: Domain-specific request throttling to avoid IP blocking
-- **Smart Retry Logic**: Automatic backoff and retry for intermittent failures
-- **Comprehensive IP Resolution**: View both IPv4 and IPv6 addresses for monitored domains
-- **CDN Detection**: Automatically identify if websites are behind Cloudflare, Akamai, Fastly, AWS, or other CDNs
-- **DNS Analysis**: Perform reverse DNS lookups for deeper diagnostics
-- **SSL Certificate Validation**: Verify SSL certificates for HTTPS websites
-- **Persistent Configuration**: Save monitoring settings between sessions
-- **Detailed Logging**: Track uptime/downtime events with timestamps and error details
+- **Real-time Website Monitoring** - Continuously check the status of multiple websites
+- **Intelligent IP Resolution** - Resolve both IPv4 and IPv6 addresses for monitored websites
+- **CDN Detection** - Automatically identify if websites are behind popular CDNs (Cloudflare, Akamai, etc.)
+- **SSL Certificate Validation** - Verify SSL certificates for secure websites
+- **Reverse DNS Lookup** - Get hostname information for IP addresses
+- **Configurable Check Intervals** - Customize how frequently sites are checked
+- **Rate Limiting** - Smart rate limiting to prevent overloading servers
+- **Detailed Logging** - Comprehensive logging of all activity and errors
+- **Persistent Configuration** - Save your monitoring setup between sessions
+- **Multi-threaded Performance** - Efficiently monitor multiple sites simultaneously
 
 ## 📋 Requirements
 
-- Python 3.6+
-- Required packages: `requests`
+- Python 3.6 or higher
+- Required Python packages:
+  - requests
+  - typing
+  - urllib3
 
 ## 🚀 Installation
 
-```bash
-# Clone the repository
-git clone https://github.com/Xnuvers007/downdetector.git
-cd downdetector
+1. Clone this repository or download the script:
 
-# Install dependencies
-pip install requests
+```bash
+git clone https://github.com/xnuvers007/downdetector.git
+cd downdetector
 ```
 
-## 💻 Usage
+2. Install the required dependencies:
 
-Run the script using Python:
+```bash
+pip install requests urllib3
+```
+
+3. Run the script:
 
 ```bash
 python downdetector.py
 ```
 
-### Configuration
+## 💻 Usage
 
-On first run, you will be prompted to:
-
-1. Enter one or more websites to monitor (comma-separated)
-2. Set the check interval (in seconds, minimum 10)
-
-For subsequent runs, you can choose to use previously configured websites or enter new ones.
-
-### Example Output
+1. Start the script and enter websites to monitor (comma-separated):
 
 ```
-==================================================
 🔍 ADVANCED WEBSITE DOWNDETECTOR 🔍
+==================================================
+Developed by: xnuvers007
+Version: 2.0.0 - 2025
+==================================================
+
+Enter website(s) to monitor (comma separated): example.com, github.com, google.com
+```
+
+2. Set your preferred check interval (in seconds):
+
+```
+Check interval in seconds (default: 60, minimum: 10): 30
+```
+
+3. Monitor the results:
+
+```
+Monitoring started...
 ==================================================
 
 Monitoring the following URLs:
-  Hostname: example.com
-  IPv4 Addresses:
-    • 93.184.216.34 - example.com
-  IPv6 Addresses:
-    • 2606:2800:220:1:248:1893:25c8:1946
-  
-  - https://example.com
+Resolving IP addresses...
+Done! (1.25s)
 
-  Hostname: cloudflare.com
-  IPv4 Addresses:
-    • 104.16.124.96 - No reverse DNS record
-    • 104.16.123.96 - No reverse DNS record
-  CDN Detection:
-    • Website appears to be behind: cloudflare
-    • The IP addresses found may belong to the CDN, not the origin server
-  
-  - https://cloudflare.com
+Hostname: example.com
+IPv4 Addresses:
+  • 93.184.216.34 - No reverse DNS record
 
-Check interval: Every 60 seconds
+Hostname: github.com
+IPv4 Addresses:
+  • 140.82.121.3 - lb-140-82-121-3-fra.github.com
+CDN Detection:
+  • Website appears to be behind: Fastly
+  • The IP addresses found may belong to the CDN, not the origin server
 
-Press Ctrl+C to stop monitoring.
-
-[UP] https://example.com - UP (HTTP 200, 423.45ms)
-[UP] https://cloudflare.com - UP (HTTP 200, 215.78ms)
+[UP] example.com - UP (HTTP 200, 324.45ms)
+[UP] github.com - UP (HTTP 200, 156.78ms)
+[UP] google.com - UP (HTTP 200, 89.12ms)
 ```
 
-## 📊 Status Indicators
+4. Press `Ctrl+C` to stop monitoring.
 
-- `[UP]` - Website responding with successful HTTP status code (200-399)
-- `[DOWN]` - Website unreachable or responding with error code (400+)
-- `[UNKNOWN]` - Status could not be determined
+## ⚙️ Configuration
 
-## 🔒 Security Features
+The tool creates a configuration file (`downdetector_config.json`) that stores:
+- List of monitored URLs
+- Check interval settings
+- Last update timestamp
 
-- URL sanitization and validation
-- Protection against private IP address scanning
-- Configurable timeouts and retry limits
-- Randomized User-Agent headers
+This allows you to easily resume monitoring with the same settings.
 
-## 📝 Logging
+## 📊 Technical Details
 
-The tool logs all events to both console and a `downdetector.log` file, which can be used for historical analysis and troubleshooting.
+### Domain Safety Checks
 
-## 🛠️ Advanced Configuration
+The tool performs various safety checks to prevent monitoring of:
+- Localhost addresses
+- Private network addresses (10.x.x.x, 192.168.x.x, etc.)
+- Link-local addresses
+- Other potentially unsafe domains
 
-Edit the following constants in the script to customize behavior:
+### CDN Detection
 
-- `MAX_WORKERS`: Maximum number of concurrent threads (default: 10)
-- `MAX_RETRIES`: Maximum retry attempts for failed requests (default: 3)
-- `DEFAULT_TIMEOUT`: Request timeout in seconds (default: 10)
-- `RATE_LIMIT_PER_DOMAIN`: Time between requests to the same domain (default: 10)
-- `DEFAULT_CHECK_INTERVAL`: Default website check interval (default: 60)
+Identifies websites behind common CDNs including:
+- Cloudflare
+- Akamai
+- Fastly
+- AWS CloudFront
 
-## 🤝 Contributing
+### HTTP Request Handling
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+- Configurable retries with exponential backoff
+- Proper user agent rotation
+- Connection pooling for efficiency
+- Automatic handling of redirects
+- SSL certificate validation
 
-## 📜 License
+## 📝 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+[MIT License](LICENSE)
 
-## 📞 Support
+## 👨‍💻 Author
 
-If you encounter any problems or have suggestions, please open an issue on the project's GitHub.
+Developed by [Xnuvers007](https://github.com/xnuvers007)
+
+## Open Issue
+
+[Click this](https://github.com/Xnuvers007/downdetector/issues/new/choose)
+---
+
+*Note: This tool is for educational and informational purposes only. Please use responsibly and respect website terms of service and rate limits.*
